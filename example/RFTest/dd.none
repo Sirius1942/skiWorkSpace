@@ -1,0 +1,9 @@
+*** Settings ***
+Library           Selenium2Library
+
+*** Test Cases ***
+login
+    Open Browser    http://localhost:9527    chrome
+    input text    name=username    chenjiusi
+    input text    name=password    123456
+    click button    xpath=//button/span/login

@@ -1,0 +1,6 @@
+*** Settings ***
+Library           Selenium2Library
+
+*** Test Cases ***
+login
+    Open Browser    http://localhost:9527    chrome

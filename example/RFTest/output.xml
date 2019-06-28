@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.1.2 (Python 3.6.0 on darwin)" generated="20190626 14:25:52.166" rpa="false">
+<suite id="s1" name="testDemo" source="/Users/sirius/Documents/06code/py_example/autotet_code/p/testDemo.robot">
+<test id="s1-t1" name="selenium demo">
+<kw name="Open Browser" library="Selenium2Library">
+<doc>Opens a new browser instance to the given ``url``.</doc>
+<arguments>
+<arg>http://www.baidu.com</arg>
+<arg>chrome</arg>
+</arguments>
+<msg timestamp="20190626 14:25:52.742" level="INFO">Opening browser 'chrome' to base url 'http://www.baidu.com'.</msg>
+<status status="PASS" starttime="20190626 14:25:52.741" endtime="20190626 14:25:57.956"></status>
+</kw>
+<kw name="Input Text" library="Selenium2Library">
+<doc>Types the given ``text`` into text field identified by ``locator``.</doc>
+<arguments>
+<arg>id=kw</arg>
+<arg>test_robot</arg>
+</arguments>
+<msg timestamp="20190626 14:25:57.961" level="INFO">Typing text 'test_robot' into text field 'id=kw'.</msg>
+<status status="PASS" starttime="20190626 14:25:57.959" endtime="20190626 14:25:58.544"></status>
+</kw>
+<kw name="Click Button" library="Selenium2Library">
+<doc>Clicks button identified by ``locator``.</doc>
+<arguments>
+<arg>id=su</arg>
+</arguments>
+<msg timestamp="20190626 14:25:58.546" level="INFO">Clicking button 'id=su'.</msg>
+<status status="PASS" starttime="20190626 14:25:58.545" endtime="20190626 14:25:58.768"></status>
+</kw>
+<doc>test_login</doc>
+<tags>
+<tag>selenium</tag>
+</tags>
+<status status="PASS" starttime="20190626 14:25:52.737" endtime="20190626 14:25:58.768" critical="yes"></status>
+</test>
+<status status="PASS" starttime="20190626 14:25:52.169" endtime="20190626 14:25:58.772"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0">Critical Tests</stat>
+<stat pass="1" fail="0">All Tests</stat>
+</total>
+<tag>
+<stat pass="1" fail="0">selenium</stat>
+</tag>
+<suite>
+<stat pass="1" fail="0" id="s1" name="testDemo">testDemo</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
