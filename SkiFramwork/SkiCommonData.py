@@ -32,6 +32,8 @@ class SkiCoreData(object):
         f= open("./SkiSetting.json")
         conf=json.load(f)
         return conf
+    # def __init_data():
+
 
         
 

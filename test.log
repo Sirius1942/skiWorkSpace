@@ -190,3 +190,383 @@
 2019-07-02 09:25:13,556 INFO <Response [200]>
 2019-07-02 09:25:13,556 INFO <Response [200]>
 2019-07-02 09:25:13,556 INFO <Response [200]>
+2019-07-02 10:23:05,727 INFO 开始执行测试
+2019-07-02 10:23:06,506 INFO in remsg
+2019-07-02 10:23:06,506 INFO in remsg
+2019-07-02 10:23:06,747 INFO <Response [200]>
+2019-07-02 10:23:06,747 INFO <Response [200]>
+2019-07-02 10:23:06,747 INFO <Response [200]>
+2019-07-02 10:23:07,142 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 10:23:07,142 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 10:23:07,142 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 10:23:07,142 DEBUG Creating session: baidu
+2019-07-02 10:23:07,142 DEBUG Creating session: baidu
+2019-07-02 10:23:07,142 DEBUG Creating session: baidu
+2019-07-02 10:23:07,143 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 10:23:07,143 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 10:23:07,143 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 10:23:07,144 INFO <requests.sessions.Session object at 0x110d4a358>
+2019-07-02 10:23:07,144 INFO <requests.sessions.Session object at 0x110d4a358>
+2019-07-02 10:23:07,144 INFO <requests.sessions.Session object at 0x110d4a358>
+2019-07-02 10:23:07,144 INFO <requests.sessions.Session object at 0x110d4a358>
+2019-07-02 10:23:07,280 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 10:23:07,280 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 10:23:07,280 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 10:23:07,280 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 10:23:07,282 INFO <Response [200]>
+2019-07-02 10:23:07,282 INFO <Response [200]>
+2019-07-02 10:23:07,282 INFO <Response [200]>
+2019-07-02 10:23:07,282 INFO <Response [200]>
+2019-07-02 10:23:07,282 INFO <Response [200]>
+2019-07-02 10:46:42,183 INFO 开始执行测试
+2019-07-02 10:46:42,230 ERROR error,does not find  modules
+2019-07-02 10:46:42,230 ERROR error,does not find  modules
+2019-07-02 10:46:42,231 INFO None
+2019-07-02 10:46:42,231 INFO None
+2019-07-02 10:46:42,231 INFO None
+2019-07-02 10:46:42,232 ERROR error,does not find  modules
+2019-07-02 10:46:42,232 ERROR error,does not find  modules
+2019-07-02 10:46:42,232 ERROR error,does not find  modules
+2019-07-02 10:46:42,232 ERROR error,does not find  modules
+2019-07-02 10:46:42,233 INFO None
+2019-07-02 10:46:42,233 INFO None
+2019-07-02 10:46:42,233 INFO None
+2019-07-02 10:46:42,233 INFO None
+2019-07-02 10:46:42,233 INFO None
+2019-07-02 10:46:42,233 ERROR error,does not find  modules
+2019-07-02 10:46:42,233 ERROR error,does not find  modules
+2019-07-02 10:46:42,233 ERROR error,does not find  modules
+2019-07-02 10:46:42,233 ERROR error,does not find  modules
+2019-07-02 10:46:42,233 ERROR error,does not find  modules
+2019-07-02 10:46:42,233 ERROR error,does not find  modules
+2019-07-02 10:46:42,234 INFO None
+2019-07-02 10:46:42,234 INFO None
+2019-07-02 10:46:42,234 INFO None
+2019-07-02 10:46:42,234 INFO None
+2019-07-02 10:46:42,234 INFO None
+2019-07-02 10:46:42,234 INFO None
+2019-07-02 10:46:42,234 INFO None
+2019-07-02 10:47:12,187 INFO 开始执行测试
+2019-07-02 10:47:12,238 ERROR error,does not find  modules
+2019-07-02 10:47:12,238 ERROR error,does not find  modules
+2019-07-02 10:47:12,240 INFO None
+2019-07-02 10:47:12,240 INFO None
+2019-07-02 10:47:12,240 INFO None
+2019-07-02 10:47:12,242 ERROR error,does not find  modules
+2019-07-02 10:47:12,242 ERROR error,does not find  modules
+2019-07-02 10:47:12,242 ERROR error,does not find  modules
+2019-07-02 10:47:12,242 ERROR error,does not find  modules
+2019-07-02 10:47:12,245 INFO None
+2019-07-02 10:47:12,245 INFO None
+2019-07-02 10:47:12,245 INFO None
+2019-07-02 10:47:12,245 INFO None
+2019-07-02 10:47:12,245 INFO None
+2019-07-02 10:47:12,246 ERROR error,does not find  modules
+2019-07-02 10:47:12,246 ERROR error,does not find  modules
+2019-07-02 10:47:12,246 ERROR error,does not find  modules
+2019-07-02 10:47:12,246 ERROR error,does not find  modules
+2019-07-02 10:47:12,246 ERROR error,does not find  modules
+2019-07-02 10:47:12,246 ERROR error,does not find  modules
+2019-07-02 10:47:12,249 INFO None
+2019-07-02 10:47:12,249 INFO None
+2019-07-02 10:47:12,249 INFO None
+2019-07-02 10:47:12,249 INFO None
+2019-07-02 10:47:12,249 INFO None
+2019-07-02 10:47:12,249 INFO None
+2019-07-02 10:47:12,249 INFO None
+2019-07-02 10:47:42,922 INFO 开始执行测试
+2019-07-02 10:47:42,967 ERROR error,does not find  modules
+2019-07-02 10:47:42,967 ERROR error,does not find  modules
+2019-07-02 10:47:42,967 INFO None
+2019-07-02 10:47:42,967 INFO None
+2019-07-02 10:47:42,967 INFO None
+2019-07-02 10:47:42,969 ERROR error,does not find  modules
+2019-07-02 10:47:42,969 ERROR error,does not find  modules
+2019-07-02 10:47:42,969 ERROR error,does not find  modules
+2019-07-02 10:47:42,969 ERROR error,does not find  modules
+2019-07-02 10:47:42,970 INFO None
+2019-07-02 10:47:42,970 INFO None
+2019-07-02 10:47:42,970 INFO None
+2019-07-02 10:47:42,970 INFO None
+2019-07-02 10:47:42,970 INFO None
+2019-07-02 10:47:42,972 ERROR error,does not find  modules
+2019-07-02 10:47:42,972 ERROR error,does not find  modules
+2019-07-02 10:47:42,972 ERROR error,does not find  modules
+2019-07-02 10:47:42,972 ERROR error,does not find  modules
+2019-07-02 10:47:42,972 ERROR error,does not find  modules
+2019-07-02 10:47:42,972 ERROR error,does not find  modules
+2019-07-02 10:47:42,973 INFO None
+2019-07-02 10:47:42,973 INFO None
+2019-07-02 10:47:42,973 INFO None
+2019-07-02 10:47:42,973 INFO None
+2019-07-02 10:47:42,973 INFO None
+2019-07-02 10:47:42,973 INFO None
+2019-07-02 10:47:42,973 INFO None
+2019-07-02 10:48:13,139 INFO 开始执行测试
+2019-07-02 10:48:13,175 ERROR error,does not find  modules
+2019-07-02 10:48:13,175 ERROR error,does not find  modules
+2019-07-02 10:48:13,176 ERROR type object 'super' has no attribute '_step__getModules'
+2019-07-02 10:48:13,176 ERROR type object 'super' has no attribute '_step__getModules'
+2019-07-02 10:48:13,176 ERROR type object 'super' has no attribute '_step__getModules'
+2019-07-02 10:48:13,176 INFO None
+2019-07-02 10:48:13,176 INFO None
+2019-07-02 10:48:13,176 INFO None
+2019-07-02 10:48:13,176 INFO None
+2019-07-02 10:48:13,178 ERROR error,does not find  modules
+2019-07-02 10:48:13,178 ERROR error,does not find  modules
+2019-07-02 10:48:13,178 ERROR error,does not find  modules
+2019-07-02 10:48:13,178 ERROR error,does not find  modules
+2019-07-02 10:48:13,178 ERROR error,does not find  modules
+2019-07-02 10:48:13,178 ERROR type object 'super' has no attribute '_step__getModules'
+2019-07-02 10:48:13,178 ERROR type object 'super' has no attribute '_step__getModules'
+2019-07-02 10:48:13,178 ERROR type object 'super' has no attribute '_step__getModules'
+2019-07-02 10:48:13,178 ERROR type object 'super' has no attribute '_step__getModules'
+2019-07-02 10:48:13,178 ERROR type object 'super' has no attribute '_step__getModules'
+2019-07-02 10:48:13,178 ERROR type object 'super' has no attribute '_step__getModules'
+2019-07-02 10:48:13,179 INFO None
+2019-07-02 10:48:13,179 INFO None
+2019-07-02 10:48:13,179 INFO None
+2019-07-02 10:48:13,179 INFO None
+2019-07-02 10:48:13,179 INFO None
+2019-07-02 10:48:13,179 INFO None
+2019-07-02 10:48:13,179 INFO None
+2019-07-02 10:48:13,180 ERROR error,does not find  modules
+2019-07-02 10:48:13,180 ERROR error,does not find  modules
+2019-07-02 10:48:13,180 ERROR error,does not find  modules
+2019-07-02 10:48:13,180 ERROR error,does not find  modules
+2019-07-02 10:48:13,180 ERROR error,does not find  modules
+2019-07-02 10:48:13,180 ERROR error,does not find  modules
+2019-07-02 10:48:13,180 ERROR error,does not find  modules
+2019-07-02 10:48:13,180 ERROR error,does not find  modules
+2019-07-02 10:48:13,181 ERROR type object 'super' has no attribute '_step__getModules'
+2019-07-02 10:48:13,181 ERROR type object 'super' has no attribute '_step__getModules'
+2019-07-02 10:48:13,181 ERROR type object 'super' has no attribute '_step__getModules'
+2019-07-02 10:48:13,181 ERROR type object 'super' has no attribute '_step__getModules'
+2019-07-02 10:48:13,181 ERROR type object 'super' has no attribute '_step__getModules'
+2019-07-02 10:48:13,181 ERROR type object 'super' has no attribute '_step__getModules'
+2019-07-02 10:48:13,181 ERROR type object 'super' has no attribute '_step__getModules'
+2019-07-02 10:48:13,181 ERROR type object 'super' has no attribute '_step__getModules'
+2019-07-02 10:48:13,181 ERROR type object 'super' has no attribute '_step__getModules'
+2019-07-02 10:48:13,183 INFO None
+2019-07-02 10:48:13,183 INFO None
+2019-07-02 10:48:13,183 INFO None
+2019-07-02 10:48:13,183 INFO None
+2019-07-02 10:48:13,183 INFO None
+2019-07-02 10:48:13,183 INFO None
+2019-07-02 10:48:13,183 INFO None
+2019-07-02 10:48:13,183 INFO None
+2019-07-02 10:48:13,183 INFO None
+2019-07-02 10:48:13,183 INFO None
+2019-07-02 10:49:43,181 INFO 开始执行测试
+2019-07-02 10:49:43,219 ERROR error,does not find  modules
+2019-07-02 10:49:43,219 ERROR error,does not find  modules
+2019-07-02 10:49:43,221 ERROR type object 'super' has no attribute '_getModules'
+2019-07-02 10:49:43,221 ERROR type object 'super' has no attribute '_getModules'
+2019-07-02 10:49:43,221 ERROR type object 'super' has no attribute '_getModules'
+2019-07-02 10:49:43,221 INFO None
+2019-07-02 10:49:43,221 INFO None
+2019-07-02 10:49:43,221 INFO None
+2019-07-02 10:49:43,221 INFO None
+2019-07-02 10:49:43,223 ERROR error,does not find  modules
+2019-07-02 10:49:43,223 ERROR error,does not find  modules
+2019-07-02 10:49:43,223 ERROR error,does not find  modules
+2019-07-02 10:49:43,223 ERROR error,does not find  modules
+2019-07-02 10:49:43,223 ERROR error,does not find  modules
+2019-07-02 10:49:43,224 ERROR type object 'super' has no attribute '_getModules'
+2019-07-02 10:49:43,224 ERROR type object 'super' has no attribute '_getModules'
+2019-07-02 10:49:43,224 ERROR type object 'super' has no attribute '_getModules'
+2019-07-02 10:49:43,224 ERROR type object 'super' has no attribute '_getModules'
+2019-07-02 10:49:43,224 ERROR type object 'super' has no attribute '_getModules'
+2019-07-02 10:49:43,224 ERROR type object 'super' has no attribute '_getModules'
+2019-07-02 10:49:43,226 INFO None
+2019-07-02 10:49:43,226 INFO None
+2019-07-02 10:49:43,226 INFO None
+2019-07-02 10:49:43,226 INFO None
+2019-07-02 10:49:43,226 INFO None
+2019-07-02 10:49:43,226 INFO None
+2019-07-02 10:49:43,226 INFO None
+2019-07-02 10:49:43,228 ERROR error,does not find  modules
+2019-07-02 10:49:43,228 ERROR error,does not find  modules
+2019-07-02 10:49:43,228 ERROR error,does not find  modules
+2019-07-02 10:49:43,228 ERROR error,does not find  modules
+2019-07-02 10:49:43,228 ERROR error,does not find  modules
+2019-07-02 10:49:43,228 ERROR error,does not find  modules
+2019-07-02 10:49:43,228 ERROR error,does not find  modules
+2019-07-02 10:49:43,228 ERROR error,does not find  modules
+2019-07-02 10:49:43,230 ERROR type object 'super' has no attribute '_getModules'
+2019-07-02 10:49:43,230 ERROR type object 'super' has no attribute '_getModules'
+2019-07-02 10:49:43,230 ERROR type object 'super' has no attribute '_getModules'
+2019-07-02 10:49:43,230 ERROR type object 'super' has no attribute '_getModules'
+2019-07-02 10:49:43,230 ERROR type object 'super' has no attribute '_getModules'
+2019-07-02 10:49:43,230 ERROR type object 'super' has no attribute '_getModules'
+2019-07-02 10:49:43,230 ERROR type object 'super' has no attribute '_getModules'
+2019-07-02 10:49:43,230 ERROR type object 'super' has no attribute '_getModules'
+2019-07-02 10:49:43,230 ERROR type object 'super' has no attribute '_getModules'
+2019-07-02 10:49:43,231 INFO None
+2019-07-02 10:49:43,231 INFO None
+2019-07-02 10:49:43,231 INFO None
+2019-07-02 10:49:43,231 INFO None
+2019-07-02 10:49:43,231 INFO None
+2019-07-02 10:49:43,231 INFO None
+2019-07-02 10:49:43,231 INFO None
+2019-07-02 10:49:43,231 INFO None
+2019-07-02 10:49:43,231 INFO None
+2019-07-02 10:49:43,231 INFO None
+2019-07-02 10:49:55,930 INFO 开始执行测试
+2019-07-02 10:49:55,969 ERROR error,does not find  modules
+2019-07-02 10:49:55,969 ERROR error,does not find  modules
+2019-07-02 10:49:55,969 ERROR name 'ski' is not defined
+2019-07-02 10:49:55,969 ERROR name 'ski' is not defined
+2019-07-02 10:49:55,969 ERROR name 'ski' is not defined
+2019-07-02 10:49:55,970 INFO None
+2019-07-02 10:49:55,970 INFO None
+2019-07-02 10:49:55,970 INFO None
+2019-07-02 10:49:55,970 INFO None
+2019-07-02 10:49:55,972 ERROR error,does not find  modules
+2019-07-02 10:49:55,972 ERROR error,does not find  modules
+2019-07-02 10:49:55,972 ERROR error,does not find  modules
+2019-07-02 10:49:55,972 ERROR error,does not find  modules
+2019-07-02 10:49:55,972 ERROR error,does not find  modules
+2019-07-02 10:49:55,973 ERROR name 'ski' is not defined
+2019-07-02 10:49:55,973 ERROR name 'ski' is not defined
+2019-07-02 10:49:55,973 ERROR name 'ski' is not defined
+2019-07-02 10:49:55,973 ERROR name 'ski' is not defined
+2019-07-02 10:49:55,973 ERROR name 'ski' is not defined
+2019-07-02 10:49:55,973 ERROR name 'ski' is not defined
+2019-07-02 10:49:55,973 INFO None
+2019-07-02 10:49:55,973 INFO None
+2019-07-02 10:49:55,973 INFO None
+2019-07-02 10:49:55,973 INFO None
+2019-07-02 10:49:55,973 INFO None
+2019-07-02 10:49:55,973 INFO None
+2019-07-02 10:49:55,973 INFO None
+2019-07-02 10:49:55,974 ERROR error,does not find  modules
+2019-07-02 10:49:55,974 ERROR error,does not find  modules
+2019-07-02 10:49:55,974 ERROR error,does not find  modules
+2019-07-02 10:49:55,974 ERROR error,does not find  modules
+2019-07-02 10:49:55,974 ERROR error,does not find  modules
+2019-07-02 10:49:55,974 ERROR error,does not find  modules
+2019-07-02 10:49:55,974 ERROR error,does not find  modules
+2019-07-02 10:49:55,974 ERROR error,does not find  modules
+2019-07-02 10:49:55,975 ERROR name 'ski' is not defined
+2019-07-02 10:49:55,975 ERROR name 'ski' is not defined
+2019-07-02 10:49:55,975 ERROR name 'ski' is not defined
+2019-07-02 10:49:55,975 ERROR name 'ski' is not defined
+2019-07-02 10:49:55,975 ERROR name 'ski' is not defined
+2019-07-02 10:49:55,975 ERROR name 'ski' is not defined
+2019-07-02 10:49:55,975 ERROR name 'ski' is not defined
+2019-07-02 10:49:55,975 ERROR name 'ski' is not defined
+2019-07-02 10:49:55,975 ERROR name 'ski' is not defined
+2019-07-02 10:49:55,976 INFO None
+2019-07-02 10:49:55,976 INFO None
+2019-07-02 10:49:55,976 INFO None
+2019-07-02 10:49:55,976 INFO None
+2019-07-02 10:49:55,976 INFO None
+2019-07-02 10:49:55,976 INFO None
+2019-07-02 10:49:55,976 INFO None
+2019-07-02 10:49:55,976 INFO None
+2019-07-02 10:49:55,976 INFO None
+2019-07-02 10:49:55,976 INFO None
+2019-07-02 10:50:09,282 INFO 开始执行测试
+2019-07-02 10:50:48,299 INFO 开始执行测试
+2019-07-02 10:51:40,003 INFO 开始执行测试
+2019-07-02 10:51:40,839 INFO in remsg
+2019-07-02 10:51:40,839 INFO in remsg
+2019-07-02 10:51:41,068 INFO <Response [200]>
+2019-07-02 10:51:41,068 INFO <Response [200]>
+2019-07-02 10:51:41,068 INFO <Response [200]>
+2019-07-02 10:51:41,437 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 10:51:41,437 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 10:51:41,437 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 10:51:41,437 DEBUG Creating session: baidu
+2019-07-02 10:51:41,437 DEBUG Creating session: baidu
+2019-07-02 10:51:41,437 DEBUG Creating session: baidu
+2019-07-02 10:51:41,438 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 10:51:41,438 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 10:51:41,438 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 10:51:41,439 INFO <requests.sessions.Session object at 0x106a4a390>
+2019-07-02 10:51:41,439 INFO <requests.sessions.Session object at 0x106a4a390>
+2019-07-02 10:51:41,439 INFO <requests.sessions.Session object at 0x106a4a390>
+2019-07-02 10:51:41,439 INFO <requests.sessions.Session object at 0x106a4a390>
+2019-07-02 10:51:41,569 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 10:51:41,569 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 10:51:41,569 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 10:51:41,569 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 10:51:41,570 INFO <Response [200]>
+2019-07-02 10:51:41,570 INFO <Response [200]>
+2019-07-02 10:51:41,570 INFO <Response [200]>
+2019-07-02 10:51:41,570 INFO <Response [200]>
+2019-07-02 10:51:41,570 INFO <Response [200]>
+2019-07-02 10:53:43,313 INFO 开始执行测试
+2019-07-02 10:55:00,264 INFO 开始执行测试
+2019-07-02 10:58:07,223 INFO 开始执行测试
+2019-07-02 10:58:07,265 ERROR error,does not find  modules
+2019-07-02 10:58:07,265 ERROR error,does not find  modules
+2019-07-02 10:58:07,266 INFO None
+2019-07-02 10:58:07,266 INFO None
+2019-07-02 10:58:07,266 INFO None
+2019-07-02 10:58:07,268 ERROR error,does not find  modules
+2019-07-02 10:58:07,268 ERROR error,does not find  modules
+2019-07-02 10:58:07,268 ERROR error,does not find  modules
+2019-07-02 10:58:07,268 ERROR error,does not find  modules
+2019-07-02 10:58:07,268 INFO None
+2019-07-02 10:58:07,268 INFO None
+2019-07-02 10:58:07,268 INFO None
+2019-07-02 10:58:07,268 INFO None
+2019-07-02 10:58:07,268 INFO None
+2019-07-02 10:58:07,269 ERROR error,does not find  modules
+2019-07-02 10:58:07,269 ERROR error,does not find  modules
+2019-07-02 10:58:07,269 ERROR error,does not find  modules
+2019-07-02 10:58:07,269 ERROR error,does not find  modules
+2019-07-02 10:58:07,269 ERROR error,does not find  modules
+2019-07-02 10:58:07,269 ERROR error,does not find  modules
+2019-07-02 10:58:07,270 INFO None
+2019-07-02 10:58:07,270 INFO None
+2019-07-02 10:58:07,270 INFO None
+2019-07-02 10:58:07,270 INFO None
+2019-07-02 10:58:07,270 INFO None
+2019-07-02 10:58:07,270 INFO None
+2019-07-02 10:58:07,270 INFO None
+2019-07-02 11:05:27,539 INFO 开始执行测试
+2019-07-02 11:05:28,201 INFO in remsg
+2019-07-02 11:05:28,201 INFO in remsg
+2019-07-02 11:05:28,425 INFO <Response [200]>
+2019-07-02 11:05:28,425 INFO <Response [200]>
+2019-07-02 11:05:28,425 INFO <Response [200]>
+2019-07-02 11:07:12,226 INFO 开始执行测试
+2019-07-02 11:07:12,830 INFO in remsg
+2019-07-02 11:07:12,830 INFO in remsg
+2019-07-02 11:07:12,961 INFO <Response [200]>
+2019-07-02 11:07:12,961 INFO <Response [200]>
+2019-07-02 11:07:12,961 INFO <Response [200]>
+2019-07-02 11:07:13,134 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 11:07:13,134 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 11:07:13,134 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 11:07:13,134 DEBUG Creating session: baidu
+2019-07-02 11:07:13,134 DEBUG Creating session: baidu
+2019-07-02 11:07:13,134 DEBUG Creating session: baidu
+2019-07-02 11:07:13,135 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 11:07:13,135 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 11:07:13,135 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 11:07:13,135 INFO <requests.sessions.Session object at 0x10551ff98>
+2019-07-02 11:07:13,135 INFO <requests.sessions.Session object at 0x10551ff98>
+2019-07-02 11:07:13,135 INFO <requests.sessions.Session object at 0x10551ff98>
+2019-07-02 11:07:13,135 INFO <requests.sessions.Session object at 0x10551ff98>
+2019-07-02 11:07:13,233 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 11:07:13,233 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 11:07:13,233 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 11:07:13,233 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 11:07:13,234 INFO <Response [200]>
+2019-07-02 11:07:13,234 INFO <Response [200]>
+2019-07-02 11:07:13,234 INFO <Response [200]>
+2019-07-02 11:07:13,234 INFO <Response [200]>
+2019-07-02 11:07:13,234 INFO <Response [200]>
