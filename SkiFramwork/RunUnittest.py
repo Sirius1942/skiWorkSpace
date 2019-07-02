@@ -519,7 +519,7 @@ var myNewChart = new Chart(ctx).Pie(data,newopts);
            [x]</a>
         </div>
         <pre>
-        %(script)s
+        %(logs)s%(script)s
         </pre>
     </div>
     <!--css div popup end-->
@@ -675,13 +675,11 @@ class HTMLTestRunner(Template_mixin):
     def run(self, test):
         "Run the given test case or test suite."
         result = _TestResult(self.verbosity)
-        print(result)
         test(result)
         self.stopTime = datetime.datetime.now()
         self.generateReport(test, result)
         #print(sys.stderr, '\nTime Elapsed: %s' % (self.stopTime-self.startTime))
         return result
-
 
     def sortResult(self, result_list):
         # unittest does not seems to run in any particular order.
@@ -845,6 +843,7 @@ class HTMLTestRunner(Template_mixin):
             desc = desc,
             script = script,
             status = self.STATUS[n],
+            logs = self.log_capture.getvalue() if self.log_capture else ""
         )
         rows.append(row)
         if not has_output:

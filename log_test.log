@@ -1,0 +1,9 @@
+Fri, 28 Jun 2019 08:52:30 connectionpool.py[line:212] DEBUG Starting new HTTP connection (1): www.baidu.com
+Fri, 28 Jun 2019 08:52:30 connectionpool.py[line:400] DEBUG http://www.baidu.com:80 "GET / HTTP/1.1" 200 2638
+Fri, 28 Jun 2019 08:52:30 logger.py[line:97] INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+Fri, 28 Jun 2019 08:52:30 logger.py[line:97] DEBUG Creating session: baidu
+Fri, 28 Jun 2019 08:52:30 logger.py[line:97] DEBUG Argument types are:
+<class 'bool'>
+Fri, 28 Jun 2019 08:52:30 connectionpool.py[line:212] DEBUG Starting new HTTP connection (1): www.baidu.com
+Fri, 28 Jun 2019 08:52:30 connectionpool.py[line:400] DEBUG http://www.baidu.com:80 "GET / HTTP/1.1" 200 2638
+Fri, 28 Jun 2019 08:52:30 logger.py[line:97] INFO Get Request using : alias=baidu, uri=/, headers=None json=None

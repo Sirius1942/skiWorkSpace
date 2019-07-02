@@ -6,34 +6,34 @@ import importlib
 import inspect
 from importlib import import_module
 from SkiFramwork.SkiCommonData import SkiCoreData
+from SkiFramwork.log import logger
 
 class Ski():
     class case():
         def __init__(self):
-            print('__case init__')
+            # print('__case init__')
+            scd=SkiCoreData()
         def __call__(self,func):
                 def __deco(self,*arg,**kws):
-                    print("before %s called [%s],[%s]." % (func.__name__, arg,kws))
+                    # print("before %s called [%s],[%s]." % (func.__name__, arg,kws))
                     result=func(self,*arg,**kws)
-                    print("  after %s called [%s],[%s]." % (func.__name__, arg,kws))
+                    # print("  after %s called [%s],[%s]." % (func.__name__, arg,kws))
                     return result
                 return __deco
 
     class step():
         def __init__(self,keyword,*arg,**kws):
-            print("__step init__")
-            f= open("./SkiSeting.json")
-            conf=json.load(f)
-            # print(conf)
-            full_modules=conf['routers'][keyword]
+            scd=SkiCoreData()
+            conf=scd.get_setting_data()
+            full_modules=conf[keyword]
             self.result=self.__run(full_modules,*arg,**kws)
-
+            logger.info(self.result)
         def __run(self,kw_path,*arg,**kws):
             try:
                 modules=self.__getModules(kw_path)
             
             except Exception:
-                print("error,does not find  modules")
+                logger.error("error,does not find  modules")
                 return None
             
             fun_list=kw_path[len(modules)+1:].split('.')
@@ -48,11 +48,10 @@ class Ski():
             for key in fun_list[1:]:
                 if inspect.isclass(child_obj):
                     # print("this is a class")
-                    scd=SkiCoreData()
-                    temp_cls=scd.get_step_class_instance(temp_cls_name)
+                    temp_cls=SkiCoreData().get_step_class_instance(temp_cls_name)
                     if temp_cls is None:
                         child_obj=child_obj()
-                        scd.set_step_class_instance(temp_cls_name,child_obj)
+                        SkiCoreData().set_step_class_instance(temp_cls_name,child_obj)
                     else:
                         child_obj=temp_cls
                 child_obj=getattr(child_obj,key)

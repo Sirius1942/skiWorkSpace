@@ -1,0 +1,192 @@
+2019-06-30 14:52:53,621 RobotFramework INFO Opening browser 'chrome' to base url 'http://www.baidu.com'.
+2019-06-30 14:53:01,762 RobotFramework DEBUG Opened browser with session id ee9b1842dece2d98c99f8313fb03fe3a.
+2019-06-30 14:53:01,765 RobotFramework INFO Typing text 'test_robot' into text field 'id=kw'.
+2019-06-30 14:53:02,291 RobotFramework INFO Clicking button 'id=su'.
+2019-06-30 14:53:04,646 RobotFramework INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-06-30 14:53:04,647 RobotFramework DEBUG Creating session: baidu
+2019-06-30 14:53:04,648 RobotFramework DEBUG Argument types are:
+<class 'bool'>
+2019-06-30 14:53:04,751 RobotFramework INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-06-30 15:38:02,245 RobotFramework INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-06-30 15:38:02,247 RobotFramework DEBUG Creating session: baidu
+2019-06-30 15:38:02,249 RobotFramework DEBUG Argument types are:
+<class 'bool'>
+2019-06-30 15:38:02,505 RobotFramework INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-06-30 15:38:46,812 RobotFramework INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-06-30 15:38:46,813 RobotFramework DEBUG Creating session: baidu
+2019-06-30 15:38:46,814 RobotFramework DEBUG Argument types are:
+<class 'bool'>
+2019-06-30 15:38:46,979 RobotFramework INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-06-30 15:50:16,570 RobotFramework INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-06-30 15:50:16,576 RobotFramework DEBUG Creating session: baidu
+2019-06-30 15:50:16,577 RobotFramework DEBUG Argument types are:
+<class 'bool'>
+2019-06-30 15:50:16,823 RobotFramework INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-01 10:09:49,729 RobotFramework INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-01 10:09:49,730 RobotFramework DEBUG Creating session: baidu
+2019-07-01 10:09:49,731 RobotFramework DEBUG Argument types are:
+<class 'bool'>
+2019-07-01 10:09:49,952 RobotFramework INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-01 10:13:21,916 RobotFramework INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-01 10:13:21,973 RobotFramework DEBUG Creating session: baidu
+2019-07-01 10:13:21,977 RobotFramework DEBUG Argument types are:
+<class 'bool'>
+2019-07-01 10:13:22,325 RobotFramework INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-01 10:29:31,962 RobotFramework INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-01 10:29:31,967 RobotFramework DEBUG Creating session: baidu
+2019-07-01 10:29:31,969 RobotFramework DEBUG Argument types are:
+<class 'bool'>
+2019-07-01 10:29:32,240 RobotFramework INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-01 10:30:02,302 RobotFramework INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-01 10:30:02,303 RobotFramework DEBUG Creating session: baidu
+2019-07-01 10:30:02,305 RobotFramework DEBUG Argument types are:
+<class 'bool'>
+2019-07-01 10:30:02,460 RobotFramework INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-01 10:43:41,759 RobotFramework INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-01 10:43:41,760 RobotFramework DEBUG Creating session: baidu
+2019-07-01 10:43:41,761 RobotFramework DEBUG Argument types are:
+<class 'bool'>
+2019-07-01 10:43:42,017 RobotFramework INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-01 10:44:52,677 RobotFramework INFO Creating Session using : alias=baidu, url=http://www.baidu43.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-01 10:44:52,685 RobotFramework DEBUG Creating session: baidu
+2019-07-01 10:44:52,686 RobotFramework DEBUG Argument types are:
+<class 'bool'>
+2019-07-01 11:36:45,302 RobotFramework INFO in remsg
+2019-07-01 11:38:42,373 RobotFramework INFO in remsg
+2019-07-01 11:39:54,530 RobotFramework INFO in remsg
+2019-07-01 11:42:05,418 RobotFramework INFO in remsg
+2019-07-01 11:46:53,482 RobotFramework INFO in remsg
+2019-07-01 11:46:54,294 RobotFramework INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-01 11:46:54,294 RobotFramework DEBUG Creating session: baidu
+2019-07-01 11:46:54,294 RobotFramework DEBUG Argument types are:
+<class 'bool'>
+2019-07-01 11:46:54,432 RobotFramework INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-01 14:19:01,432 RobotFramework INFO in remsg
+2019-07-01 14:19:02,591 RobotFramework INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-01 14:19:02,592 RobotFramework DEBUG Creating session: baidu
+2019-07-01 14:19:02,592 RobotFramework DEBUG Argument types are:
+<class 'bool'>
+2019-07-01 14:19:03,039 RobotFramework INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-01 14:52:27,055 RobotFramework INFO 开始执行测试
+2019-07-01 14:52:28,576 RobotFramework INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-01 14:52:28,576 RobotFramework DEBUG Creating session: baidu
+2019-07-01 14:52:28,577 RobotFramework DEBUG Argument types are:
+<class 'bool'>
+2019-07-01 14:53:29,646 RobotFramework INFO 开始执行测试
+2019-07-01 14:53:30,653 RobotFramework INFO in remsg
+2019-07-01 14:53:30,653 RobotFramework INFO in remsg
+2019-07-01 14:53:31,083 RobotFramework INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-01 14:53:31,083 RobotFramework INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-01 14:53:31,084 RobotFramework DEBUG Creating session: baidu
+2019-07-01 14:53:31,084 RobotFramework DEBUG Creating session: baidu
+2019-07-01 14:53:31,085 RobotFramework DEBUG Argument types are:
+<class 'bool'>
+2019-07-01 14:53:31,085 RobotFramework DEBUG Argument types are:
+<class 'bool'>
+2019-07-01 14:55:51,198 RobotFramework INFO 开始执行测试
+2019-07-01 14:55:53,774 RobotFramework INFO in remsg
+2019-07-01 14:55:53,774 RobotFramework INFO in remsg
+2019-07-01 14:55:54,547 RobotFramework INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-01 14:55:54,547 RobotFramework INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-01 14:55:54,548 RobotFramework DEBUG Creating session: baidu
+2019-07-01 14:55:54,548 RobotFramework DEBUG Creating session: baidu
+2019-07-01 14:55:54,549 RobotFramework DEBUG Argument types are:
+<class 'bool'>
+2019-07-01 14:55:54,549 RobotFramework DEBUG Argument types are:
+<class 'bool'>
+2019-07-01 14:55:54,669 RobotFramework INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-01 14:55:54,669 RobotFramework INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-01 23:38:26,195 RobotFramework INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-01 23:38:26,195 RobotFramework INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-01 23:38:26,197 RobotFramework DEBUG Creating session: baidu
+2019-07-01 23:38:26,197 RobotFramework DEBUG Creating session: baidu
+2019-07-01 23:38:26,198 RobotFramework DEBUG Argument types are:
+<class 'bool'>
+2019-07-01 23:38:26,198 RobotFramework DEBUG Argument types are:
+<class 'bool'>
+2019-07-01 23:38:26,252 RobotFramework INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-01 23:38:26,252 RobotFramework INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-01 23:50:09,238 RobotFramework INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-01 23:50:09,238 RobotFramework INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-01 23:50:09,239 RobotFramework DEBUG Creating session: baidu
+2019-07-01 23:50:09,239 RobotFramework DEBUG Creating session: baidu
+2019-07-01 23:50:09,240 RobotFramework DEBUG Argument types are:
+<class 'bool'>
+2019-07-01 23:50:09,240 RobotFramework DEBUG Argument types are:
+<class 'bool'>
+2019-07-01 23:50:09,285 RobotFramework INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-01 23:50:09,285 RobotFramework INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 00:00:58,887 SKIFramework INFO 开始执行测试
+2019-07-02 00:01:00,003 SKIFramework INFO in remsg
+2019-07-02 00:01:00,003 SKIFramework INFO in remsg
+2019-07-02 00:02:33,603 INFO 开始执行测试
+2019-07-02 00:02:34,944 INFO in remsg
+2019-07-02 00:02:34,944 INFO in remsg
+2019-07-02 00:03:05,705 INFO 开始执行测试
+2019-07-02 00:03:06,764 INFO in remsg
+2019-07-02 00:03:06,764 INFO in remsg
+2019-07-02 00:03:07,225 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 00:03:07,225 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 00:03:07,225 DEBUG Creating session: baidu
+2019-07-02 00:03:07,225 DEBUG Creating session: baidu
+2019-07-02 00:03:07,226 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 00:03:07,226 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 00:03:07,273 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 00:03:07,273 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 09:13:30,180 INFO 开始执行测试
+2019-07-02 09:13:31,398 INFO in remsg
+2019-07-02 09:13:31,398 INFO in remsg
+2019-07-02 09:13:31,960 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 09:13:31,960 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 09:13:31,960 DEBUG Creating session: baidu
+2019-07-02 09:13:31,960 DEBUG Creating session: baidu
+2019-07-02 09:13:31,961 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 09:13:31,961 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 09:17:41,882 INFO 开始执行测试
+2019-07-02 09:17:43,245 INFO in remsg
+2019-07-02 09:17:43,245 INFO in remsg
+2019-07-02 09:17:43,933 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 09:17:43,933 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 09:17:43,933 DEBUG Creating session: baidu
+2019-07-02 09:17:43,933 DEBUG Creating session: baidu
+2019-07-02 09:17:43,935 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 09:17:43,935 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 09:17:44,040 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 09:17:44,040 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 09:25:07,677 INFO 开始执行测试
+2019-07-02 09:25:10,925 INFO in remsg
+2019-07-02 09:25:10,925 INFO in remsg
+2019-07-02 09:25:11,253 INFO <Response [200]>
+2019-07-02 09:25:11,253 INFO <Response [200]>
+2019-07-02 09:25:11,253 INFO <Response [200]>
+2019-07-02 09:25:13,383 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 09:25:13,383 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 09:25:13,383 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 09:25:13,383 DEBUG Creating session: baidu
+2019-07-02 09:25:13,383 DEBUG Creating session: baidu
+2019-07-02 09:25:13,383 DEBUG Creating session: baidu
+2019-07-02 09:25:13,385 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 09:25:13,385 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 09:25:13,385 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 09:25:13,386 INFO <requests.sessions.Session object at 0x104b3b390>
+2019-07-02 09:25:13,386 INFO <requests.sessions.Session object at 0x104b3b390>
+2019-07-02 09:25:13,386 INFO <requests.sessions.Session object at 0x104b3b390>
+2019-07-02 09:25:13,386 INFO <requests.sessions.Session object at 0x104b3b390>
+2019-07-02 09:25:13,555 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 09:25:13,555 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 09:25:13,555 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 09:25:13,555 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 09:25:13,556 INFO <Response [200]>
+2019-07-02 09:25:13,556 INFO <Response [200]>
+2019-07-02 09:25:13,556 INFO <Response [200]>
+2019-07-02 09:25:13,556 INFO <Response [200]>
+2019-07-02 09:25:13,556 INFO <Response [200]>

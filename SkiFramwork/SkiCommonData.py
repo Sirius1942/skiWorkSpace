@@ -1,3 +1,5 @@
+import json
+import os
 class Singleton(object): 
     def __init__(self, cls): 
         self._cls = cls 
@@ -12,6 +14,7 @@ class SkiCoreData(object):
 
     def __init__(self):
         self.classes={}
+        self.set_data=self.__get_conf_data()
     
     def get_step_class_instance(self,cls_name):
 
@@ -19,9 +22,18 @@ class SkiCoreData(object):
             return self.classes[cls_name]
         else:
             return None
-            
+
     def set_step_class_instance(self,cls_name,cls):
         self.classes[cls_name]=cls
+    def get_setting_data(self):
+        return self.set_data['routers']
+        
+    def __get_conf_data(self):
+        f= open("./SkiSetting.json")
+        conf=json.load(f)
+        return conf
+
+        
 
     
          

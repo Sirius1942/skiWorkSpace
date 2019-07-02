@@ -1,7 +1,8 @@
 from  drivers.KippRequests import request
+from SkiFramwork.log import logger
 
 def remsg(mod,data):
 
-    print('in remsg')
+    logger.info('in remsg')
     
     return request(data)
