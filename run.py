@@ -16,7 +16,7 @@ def get_test_cases(dirpath):
 
 if __name__ == '__main__':
 
-    logger.info("开始执行测试")
+    # logger.info("开始执行测试")
     cases = get_test_cases('./case')
     now = time.strftime("%Y-%m-%d %H_%M_%S")  # 报告生成时间
     test_reports_address = '../report'      # 测试报告存放位置

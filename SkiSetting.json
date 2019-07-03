@@ -7,7 +7,7 @@
         "click button":"Selenium2Library.Selenium2Library.click_button",
         "Open Browser":"Selenium2Library.Selenium2Library.open_browser"
     },
-    "global_variable":{
+    "globalVariable":{
         "BASE_URL":"http://www.baidu.com"
     }
     

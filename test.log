@@ -570,3 +570,397 @@
 2019-07-02 11:07:13,234 INFO <Response [200]>
 2019-07-02 11:07:13,234 INFO <Response [200]>
 2019-07-02 11:07:13,234 INFO <Response [200]>
+2019-07-02 12:20:06,085 INFO 开始执行测试
+2019-07-02 12:20:47,350 INFO 开始执行测试
+2019-07-02 12:20:48,285 INFO in remsg
+2019-07-02 12:20:48,285 INFO in remsg
+2019-07-02 12:20:48,510 INFO <Response [200]>
+2019-07-02 12:20:48,510 INFO <Response [200]>
+2019-07-02 12:20:48,510 INFO <Response [200]>
+2019-07-02 12:20:48,511 INFO run case expend [1]
+2019-07-02 12:20:48,511 INFO run case expend [1]
+2019-07-02 12:20:48,511 INFO run case expend [1]
+2019-07-02 12:20:48,511 INFO run case expend [1]
+2019-07-02 12:20:48,921 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 12:20:48,921 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 12:20:48,921 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 12:20:48,921 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 12:20:48,922 DEBUG Creating session: baidu
+2019-07-02 12:20:48,922 DEBUG Creating session: baidu
+2019-07-02 12:20:48,922 DEBUG Creating session: baidu
+2019-07-02 12:20:48,922 DEBUG Creating session: baidu
+2019-07-02 12:20:48,922 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 12:20:48,922 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 12:20:48,922 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 12:20:48,922 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 12:20:48,923 INFO <requests.sessions.Session object at 0x1094c6208>
+2019-07-02 12:20:48,923 INFO <requests.sessions.Session object at 0x1094c6208>
+2019-07-02 12:20:48,923 INFO <requests.sessions.Session object at 0x1094c6208>
+2019-07-02 12:20:48,923 INFO <requests.sessions.Session object at 0x1094c6208>
+2019-07-02 12:20:48,923 INFO <requests.sessions.Session object at 0x1094c6208>
+2019-07-02 12:20:49,105 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 12:20:49,105 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 12:20:49,105 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 12:20:49,105 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 12:20:49,105 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 12:20:49,106 INFO <Response [200]>
+2019-07-02 12:20:49,106 INFO <Response [200]>
+2019-07-02 12:20:49,106 INFO <Response [200]>
+2019-07-02 12:20:49,106 INFO <Response [200]>
+2019-07-02 12:20:49,106 INFO <Response [200]>
+2019-07-02 12:20:49,106 INFO <Response [200]>
+2019-07-02 12:20:49,107 INFO run case expend [0]
+2019-07-02 12:20:49,107 INFO run case expend [0]
+2019-07-02 12:20:49,107 INFO run case expend [0]
+2019-07-02 12:20:49,107 INFO run case expend [0]
+2019-07-02 12:20:49,107 INFO run case expend [0]
+2019-07-02 12:20:49,107 INFO run case expend [0]
+2019-07-02 12:20:49,107 INFO run case expend [0]
+2019-07-02 12:26:55,526 INFO 开始执行测试
+2019-07-02 12:26:55,569 DEBUG Begin run case 【test_send】
+2019-07-02 12:26:55,569 DEBUG Begin run case 【test_send】
+2019-07-02 12:26:56,206 INFO in remsg
+2019-07-02 12:26:56,206 INFO in remsg
+2019-07-02 12:26:56,206 INFO in remsg
+2019-07-02 12:26:56,357 INFO <Response [200]>
+2019-07-02 12:26:56,357 INFO <Response [200]>
+2019-07-02 12:26:56,357 INFO <Response [200]>
+2019-07-02 12:26:56,357 INFO <Response [200]>
+2019-07-02 12:26:56,359 DEBUG Begin run case 【test_send_use_robotframework_requestlibary】
+2019-07-02 12:26:56,359 DEBUG Begin run case 【test_send_use_robotframework_requestlibary】
+2019-07-02 12:26:56,359 DEBUG Begin run case 【test_send_use_robotframework_requestlibary】
+2019-07-02 12:26:56,359 DEBUG Begin run case 【test_send_use_robotframework_requestlibary】
+2019-07-02 12:26:56,359 DEBUG Begin run case 【test_send_use_robotframework_requestlibary】
+2019-07-02 12:26:56,712 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 12:26:56,712 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 12:26:56,712 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 12:26:56,712 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 12:26:56,712 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 12:26:56,712 DEBUG Creating session: baidu
+2019-07-02 12:26:56,712 DEBUG Creating session: baidu
+2019-07-02 12:26:56,712 DEBUG Creating session: baidu
+2019-07-02 12:26:56,712 DEBUG Creating session: baidu
+2019-07-02 12:26:56,712 DEBUG Creating session: baidu
+2019-07-02 12:26:56,713 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 12:26:56,713 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 12:26:56,713 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 12:26:56,713 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 12:26:56,713 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 12:26:56,713 INFO <requests.sessions.Session object at 0x10f59bda0>
+2019-07-02 12:26:56,713 INFO <requests.sessions.Session object at 0x10f59bda0>
+2019-07-02 12:26:56,713 INFO <requests.sessions.Session object at 0x10f59bda0>
+2019-07-02 12:26:56,713 INFO <requests.sessions.Session object at 0x10f59bda0>
+2019-07-02 12:26:56,713 INFO <requests.sessions.Session object at 0x10f59bda0>
+2019-07-02 12:26:56,713 INFO <requests.sessions.Session object at 0x10f59bda0>
+2019-07-02 12:26:56,843 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 12:26:56,843 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 12:26:56,843 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 12:26:56,843 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 12:26:56,843 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 12:26:56,843 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 12:26:56,844 INFO <Response [200]>
+2019-07-02 12:26:56,844 INFO <Response [200]>
+2019-07-02 12:26:56,844 INFO <Response [200]>
+2019-07-02 12:26:56,844 INFO <Response [200]>
+2019-07-02 12:26:56,844 INFO <Response [200]>
+2019-07-02 12:26:56,844 INFO <Response [200]>
+2019-07-02 12:26:56,844 INFO <Response [200]>
+2019-07-02 12:27:42,061 INFO 开始执行测试
+2019-07-02 12:27:42,100 DEBUG Begin run case 【test_send】
+2019-07-02 12:27:42,100 DEBUG Begin run case 【test_send】
+2019-07-02 12:27:42,815 INFO in remsg
+2019-07-02 12:27:42,815 INFO in remsg
+2019-07-02 12:27:42,815 INFO in remsg
+2019-07-02 12:27:42,997 INFO <Response [200]>
+2019-07-02 12:27:42,997 INFO <Response [200]>
+2019-07-02 12:27:42,997 INFO <Response [200]>
+2019-07-02 12:27:42,997 INFO <Response [200]>
+2019-07-02 12:27:42,999 DEBUG Begin run case 【test_send_use_robotframework_requestlibary】
+2019-07-02 12:27:42,999 DEBUG Begin run case 【test_send_use_robotframework_requestlibary】
+2019-07-02 12:27:42,999 DEBUG Begin run case 【test_send_use_robotframework_requestlibary】
+2019-07-02 12:27:42,999 DEBUG Begin run case 【test_send_use_robotframework_requestlibary】
+2019-07-02 12:27:42,999 DEBUG Begin run case 【test_send_use_robotframework_requestlibary】
+2019-07-02 12:27:43,340 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 12:27:43,340 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 12:27:43,340 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 12:27:43,340 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 12:27:43,340 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 12:27:43,340 DEBUG Creating session: baidu
+2019-07-02 12:27:43,340 DEBUG Creating session: baidu
+2019-07-02 12:27:43,340 DEBUG Creating session: baidu
+2019-07-02 12:27:43,340 DEBUG Creating session: baidu
+2019-07-02 12:27:43,340 DEBUG Creating session: baidu
+2019-07-02 12:27:43,341 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 12:27:43,341 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 12:27:43,341 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 12:27:43,341 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 12:27:43,341 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 12:27:43,342 INFO <requests.sessions.Session object at 0x1018acda0>
+2019-07-02 12:27:43,342 INFO <requests.sessions.Session object at 0x1018acda0>
+2019-07-02 12:27:43,342 INFO <requests.sessions.Session object at 0x1018acda0>
+2019-07-02 12:27:43,342 INFO <requests.sessions.Session object at 0x1018acda0>
+2019-07-02 12:27:43,342 INFO <requests.sessions.Session object at 0x1018acda0>
+2019-07-02 12:27:43,342 INFO <requests.sessions.Session object at 0x1018acda0>
+2019-07-02 12:27:43,471 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 12:27:43,471 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 12:27:43,471 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 12:27:43,471 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 12:27:43,471 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 12:27:43,471 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 12:27:43,472 INFO <Response [200]>
+2019-07-02 12:27:43,472 INFO <Response [200]>
+2019-07-02 12:27:43,472 INFO <Response [200]>
+2019-07-02 12:27:43,472 INFO <Response [200]>
+2019-07-02 12:27:43,472 INFO <Response [200]>
+2019-07-02 12:27:43,472 INFO <Response [200]>
+2019-07-02 12:27:43,472 INFO <Response [200]>
+2019-07-02 12:28:41,587 INFO 开始执行测试
+2019-07-02 12:28:41,630 DEBUG Begin run case 【test_send】
+2019-07-02 12:28:41,630 DEBUG Begin run case 【test_send】
+2019-07-02 12:28:42,490 INFO in remsg
+2019-07-02 12:28:42,490 INFO in remsg
+2019-07-02 12:28:42,490 INFO in remsg
+2019-07-02 12:28:42,697 INFO <Response [200]>
+2019-07-02 12:28:42,697 INFO <Response [200]>
+2019-07-02 12:28:42,697 INFO <Response [200]>
+2019-07-02 12:28:42,697 INFO <Response [200]>
+2019-07-02 12:28:42,698 DEBUG <class 'datetime.datetime'>
+2019-07-02 12:28:42,698 DEBUG <class 'datetime.datetime'>
+2019-07-02 12:28:42,698 DEBUG <class 'datetime.datetime'>
+2019-07-02 12:28:42,698 DEBUG <class 'datetime.datetime'>
+2019-07-02 12:28:42,698 DEBUG <class 'datetime.datetime'>
+2019-07-02 12:28:42,700 DEBUG Begin run case 【test_send_use_robotframework_requestlibary】
+2019-07-02 12:28:42,700 DEBUG Begin run case 【test_send_use_robotframework_requestlibary】
+2019-07-02 12:28:42,700 DEBUG Begin run case 【test_send_use_robotframework_requestlibary】
+2019-07-02 12:28:42,700 DEBUG Begin run case 【test_send_use_robotframework_requestlibary】
+2019-07-02 12:28:42,700 DEBUG Begin run case 【test_send_use_robotframework_requestlibary】
+2019-07-02 12:28:42,700 DEBUG Begin run case 【test_send_use_robotframework_requestlibary】
+2019-07-02 12:28:43,131 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 12:28:43,131 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 12:28:43,131 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 12:28:43,131 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 12:28:43,131 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 12:28:43,131 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 12:28:43,133 DEBUG Creating session: baidu
+2019-07-02 12:28:43,133 DEBUG Creating session: baidu
+2019-07-02 12:28:43,133 DEBUG Creating session: baidu
+2019-07-02 12:28:43,133 DEBUG Creating session: baidu
+2019-07-02 12:28:43,133 DEBUG Creating session: baidu
+2019-07-02 12:28:43,133 DEBUG Creating session: baidu
+2019-07-02 12:28:43,134 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 12:28:43,134 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 12:28:43,134 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 12:28:43,134 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 12:28:43,134 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 12:28:43,134 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 12:28:43,135 INFO <requests.sessions.Session object at 0x10cd03be0>
+2019-07-02 12:28:43,135 INFO <requests.sessions.Session object at 0x10cd03be0>
+2019-07-02 12:28:43,135 INFO <requests.sessions.Session object at 0x10cd03be0>
+2019-07-02 12:28:43,135 INFO <requests.sessions.Session object at 0x10cd03be0>
+2019-07-02 12:28:43,135 INFO <requests.sessions.Session object at 0x10cd03be0>
+2019-07-02 12:28:43,135 INFO <requests.sessions.Session object at 0x10cd03be0>
+2019-07-02 12:28:43,135 INFO <requests.sessions.Session object at 0x10cd03be0>
+2019-07-02 12:28:43,248 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 12:28:43,248 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 12:28:43,248 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 12:28:43,248 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 12:28:43,248 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 12:28:43,248 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 12:28:43,248 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 12:28:43,250 INFO <Response [200]>
+2019-07-02 12:28:43,250 INFO <Response [200]>
+2019-07-02 12:28:43,250 INFO <Response [200]>
+2019-07-02 12:28:43,250 INFO <Response [200]>
+2019-07-02 12:28:43,250 INFO <Response [200]>
+2019-07-02 12:28:43,250 INFO <Response [200]>
+2019-07-02 12:28:43,250 INFO <Response [200]>
+2019-07-02 12:28:43,250 INFO <Response [200]>
+2019-07-02 12:28:43,251 DEBUG <class 'datetime.datetime'>
+2019-07-02 12:28:43,251 DEBUG <class 'datetime.datetime'>
+2019-07-02 12:28:43,251 DEBUG <class 'datetime.datetime'>
+2019-07-02 12:28:43,251 DEBUG <class 'datetime.datetime'>
+2019-07-02 12:28:43,251 DEBUG <class 'datetime.datetime'>
+2019-07-02 12:28:43,251 DEBUG <class 'datetime.datetime'>
+2019-07-02 12:28:43,251 DEBUG <class 'datetime.datetime'>
+2019-07-02 12:28:43,251 DEBUG <class 'datetime.datetime'>
+2019-07-02 12:28:43,251 DEBUG <class 'datetime.datetime'>
+2019-07-02 12:31:27,438 INFO 开始执行测试
+2019-07-02 12:31:27,469 DEBUG Begin run case 【test_send】
+2019-07-02 12:31:27,469 DEBUG Begin run case 【test_send】
+2019-07-02 12:31:28,185 INFO in remsg
+2019-07-02 12:31:28,185 INFO in remsg
+2019-07-02 12:31:28,185 INFO in remsg
+2019-07-02 12:31:28,312 INFO <Response [200]>
+2019-07-02 12:31:28,312 INFO <Response [200]>
+2019-07-02 12:31:28,312 INFO <Response [200]>
+2019-07-02 12:31:28,312 INFO <Response [200]>
+2019-07-02 12:31:28,313 INFO End，run case expend [0.843308]
+2019-07-02 12:31:28,313 INFO End，run case expend [0.843308]
+2019-07-02 12:31:28,313 INFO End，run case expend [0.843308]
+2019-07-02 12:31:28,313 INFO End，run case expend [0.843308]
+2019-07-02 12:31:28,313 INFO End，run case expend [0.843308]
+2019-07-02 12:31:28,313 DEBUG Begin run case 【test_send_use_robotframework_requestlibary】
+2019-07-02 12:31:28,313 DEBUG Begin run case 【test_send_use_robotframework_requestlibary】
+2019-07-02 12:31:28,313 DEBUG Begin run case 【test_send_use_robotframework_requestlibary】
+2019-07-02 12:31:28,313 DEBUG Begin run case 【test_send_use_robotframework_requestlibary】
+2019-07-02 12:31:28,313 DEBUG Begin run case 【test_send_use_robotframework_requestlibary】
+2019-07-02 12:31:28,313 DEBUG Begin run case 【test_send_use_robotframework_requestlibary】
+2019-07-02 12:31:28,628 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 12:31:28,628 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 12:31:28,628 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 12:31:28,628 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 12:31:28,628 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 12:31:28,628 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-02 12:31:28,628 DEBUG Creating session: baidu
+2019-07-02 12:31:28,628 DEBUG Creating session: baidu
+2019-07-02 12:31:28,628 DEBUG Creating session: baidu
+2019-07-02 12:31:28,628 DEBUG Creating session: baidu
+2019-07-02 12:31:28,628 DEBUG Creating session: baidu
+2019-07-02 12:31:28,628 DEBUG Creating session: baidu
+2019-07-02 12:31:28,629 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 12:31:28,629 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 12:31:28,629 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 12:31:28,629 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 12:31:28,629 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 12:31:28,629 DEBUG Argument types are:
+<class 'bool'>
+2019-07-02 12:31:28,630 INFO <requests.sessions.Session object at 0x1070807f0>
+2019-07-02 12:31:28,630 INFO <requests.sessions.Session object at 0x1070807f0>
+2019-07-02 12:31:28,630 INFO <requests.sessions.Session object at 0x1070807f0>
+2019-07-02 12:31:28,630 INFO <requests.sessions.Session object at 0x1070807f0>
+2019-07-02 12:31:28,630 INFO <requests.sessions.Session object at 0x1070807f0>
+2019-07-02 12:31:28,630 INFO <requests.sessions.Session object at 0x1070807f0>
+2019-07-02 12:31:28,630 INFO <requests.sessions.Session object at 0x1070807f0>
+2019-07-02 12:31:28,767 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 12:31:28,767 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 12:31:28,767 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 12:31:28,767 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 12:31:28,767 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 12:31:28,767 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 12:31:28,767 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-02 12:31:28,770 INFO <Response [200]>
+2019-07-02 12:31:28,770 INFO <Response [200]>
+2019-07-02 12:31:28,770 INFO <Response [200]>
+2019-07-02 12:31:28,770 INFO <Response [200]>
+2019-07-02 12:31:28,770 INFO <Response [200]>
+2019-07-02 12:31:28,770 INFO <Response [200]>
+2019-07-02 12:31:28,770 INFO <Response [200]>
+2019-07-02 12:31:28,770 INFO <Response [200]>
+2019-07-02 12:31:28,772 INFO End，run case expend [0.456688]
+2019-07-02 12:31:28,772 INFO End，run case expend [0.456688]
+2019-07-02 12:31:28,772 INFO End，run case expend [0.456688]
+2019-07-02 12:31:28,772 INFO End，run case expend [0.456688]
+2019-07-02 12:31:28,772 INFO End，run case expend [0.456688]
+2019-07-02 12:31:28,772 INFO End，run case expend [0.456688]
+2019-07-02 12:31:28,772 INFO End，run case expend [0.456688]
+2019-07-02 12:31:28,772 INFO End，run case expend [0.456688]
+2019-07-02 12:31:28,772 INFO End，run case expend [0.456688]
+2019-07-03 13:51:50,148 DEBUG Begin run case 【test_send】
+2019-07-03 13:51:50,978 INFO in remsg
+2019-07-03 13:51:50,978 INFO in remsg
+2019-07-03 13:51:51,048 DEBUG Begin run case 【test_send_use_robotframework_requestlibary】
+2019-07-03 13:51:51,048 DEBUG Begin run case 【test_send_use_robotframework_requestlibary】
+2019-07-03 13:51:51,048 DEBUG Begin run case 【test_send_use_robotframework_requestlibary】
+2019-07-03 13:51:51,730 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-03 13:51:51,730 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-03 13:51:51,730 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-03 13:51:51,730 DEBUG Creating session: baidu
+2019-07-03 13:51:51,730 DEBUG Creating session: baidu
+2019-07-03 13:51:51,730 DEBUG Creating session: baidu
+2019-07-03 13:51:51,731 DEBUG Argument types are:
+<class 'bool'>
+2019-07-03 13:51:51,731 DEBUG Argument types are:
+<class 'bool'>
+2019-07-03 13:51:51,731 DEBUG Argument types are:
+<class 'bool'>
+2019-07-03 13:51:51,732 INFO <requests.sessions.Session object at 0x10ca8da20>
+2019-07-03 13:51:51,732 INFO <requests.sessions.Session object at 0x10ca8da20>
+2019-07-03 13:51:51,732 INFO <requests.sessions.Session object at 0x10ca8da20>
+2019-07-03 13:51:51,732 INFO <requests.sessions.Session object at 0x10ca8da20>
+2019-07-03 13:52:21,843 DEBUG Begin run case 【test_send】
+2019-07-03 13:52:23,288 INFO in remsg
+2019-07-03 13:52:23,288 INFO in remsg
+2019-07-03 13:52:23,505 INFO <Response [200]>
+2019-07-03 13:52:23,505 INFO <Response [200]>
+2019-07-03 13:52:23,505 INFO <Response [200]>
+2019-07-03 13:52:23,506 INFO End，run case expend [1.661746] second
+2019-07-03 13:52:23,506 INFO End，run case expend [1.661746] second
+2019-07-03 13:52:23,506 INFO End，run case expend [1.661746] second
+2019-07-03 13:52:23,506 INFO End，run case expend [1.661746] second
+2019-07-03 13:52:23,507 DEBUG Begin run case 【test_send_use_robotframework_requestlibary】
+2019-07-03 13:52:23,507 DEBUG Begin run case 【test_send_use_robotframework_requestlibary】
+2019-07-03 13:52:23,507 DEBUG Begin run case 【test_send_use_robotframework_requestlibary】
+2019-07-03 13:52:23,507 DEBUG Begin run case 【test_send_use_robotframework_requestlibary】
+2019-07-03 13:52:23,507 DEBUG Begin run case 【test_send_use_robotframework_requestlibary】
+2019-07-03 13:52:23,860 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-03 13:52:23,860 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-03 13:52:23,860 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-03 13:52:23,860 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-03 13:52:23,860 INFO Creating Session using : alias=baidu, url=http://www.baidu.com, headers={},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 
+2019-07-03 13:52:23,860 DEBUG Creating session: baidu
+2019-07-03 13:52:23,860 DEBUG Creating session: baidu
+2019-07-03 13:52:23,860 DEBUG Creating session: baidu
+2019-07-03 13:52:23,860 DEBUG Creating session: baidu
+2019-07-03 13:52:23,860 DEBUG Creating session: baidu
+2019-07-03 13:52:23,861 DEBUG Argument types are:
+<class 'bool'>
+2019-07-03 13:52:23,861 DEBUG Argument types are:
+<class 'bool'>
+2019-07-03 13:52:23,861 DEBUG Argument types are:
+<class 'bool'>
+2019-07-03 13:52:23,861 DEBUG Argument types are:
+<class 'bool'>
+2019-07-03 13:52:23,861 DEBUG Argument types are:
+<class 'bool'>
+2019-07-03 13:52:23,862 INFO <requests.sessions.Session object at 0x10cd872e8>
+2019-07-03 13:52:23,862 INFO <requests.sessions.Session object at 0x10cd872e8>
+2019-07-03 13:52:23,862 INFO <requests.sessions.Session object at 0x10cd872e8>
+2019-07-03 13:52:23,862 INFO <requests.sessions.Session object at 0x10cd872e8>
+2019-07-03 13:52:23,862 INFO <requests.sessions.Session object at 0x10cd872e8>
+2019-07-03 13:52:23,862 INFO <requests.sessions.Session object at 0x10cd872e8>
+2019-07-03 13:52:23,950 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-03 13:52:23,950 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-03 13:52:23,950 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-03 13:52:23,950 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-03 13:52:23,950 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-03 13:52:23,950 INFO Get Request using : alias=baidu, uri=/, headers=None json=None
+2019-07-03 13:52:23,951 INFO <Response [200]>
+2019-07-03 13:52:23,951 INFO <Response [200]>
+2019-07-03 13:52:23,951 INFO <Response [200]>
+2019-07-03 13:52:23,951 INFO <Response [200]>
+2019-07-03 13:52:23,951 INFO <Response [200]>
+2019-07-03 13:52:23,951 INFO <Response [200]>
+2019-07-03 13:52:23,951 INFO <Response [200]>
+2019-07-03 13:52:23,952 INFO End，run case expend [0.443743] second
+2019-07-03 13:52:23,952 INFO End，run case expend [0.443743] second
+2019-07-03 13:52:23,952 INFO End，run case expend [0.443743] second
+2019-07-03 13:52:23,952 INFO End，run case expend [0.443743] second
+2019-07-03 13:52:23,952 INFO End，run case expend [0.443743] second
+2019-07-03 13:52:23,952 INFO End，run case expend [0.443743] second
+2019-07-03 13:52:23,952 INFO End，run case expend [0.443743] second
+2019-07-03 13:52:23,952 INFO End，run case expend [0.443743] second

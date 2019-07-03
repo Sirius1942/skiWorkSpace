@@ -8,6 +8,7 @@ from importlib import import_module
 from SkiFramwork.log import logger
 from SkiFramwork.SkiCommonData import SkiCoreData
 import time
+import datetime
 
 class RunObject():
     def run(self,kw_path,*arg,**kws):
@@ -80,17 +81,26 @@ class RunObject():
             # print("Module:{} can be imported!".format(module_name))
             print("true")
             return True
+
 class SkiTime():
     def __init__(self):
-
-        self.cul_begain=0
-        self.cul_end=0
+        self.time_points=SkiCoreData().get_time_point_dics()
         
-
     def get_format_time_now(self):
         return time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
-    def culate_elapsed_time(self):
-        return None
-    def mark_time_point
+    def culate_elapsed_time(self,time_mark_ame):
+        tnow=datetime.datetime.now()
+        # logger.debug(type(tnow))
+        if time_mark_ame in self.time_points:
+            k=tnow-self.time_points[time_mark_ame]
+            return k.total_seconds()
+        else:
+            return None
+    # 设置时间检查点
+    def mark_time_point(self,name):
+        self.time_points[name]=datetime.datetime.now()
+        
+
+
 
     

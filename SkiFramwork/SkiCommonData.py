@@ -15,6 +15,8 @@ class SkiCoreData(object):
     def __init__(self):
         self.classes={}
         self.set_data=self.__get_conf_data()
+        self.time_points={}
+        self.globalVariable=self.__get_conf_data()['globalVariable']
     
     def get_step_class_instance(self,cls_name):
 
@@ -32,7 +34,10 @@ class SkiCoreData(object):
         f= open("./SkiSetting.json")
         conf=json.load(f)
         return conf
-    # def __init_data():
+    def get_time_point_dics(self):
+        return self.time_points
+    def get_global_variable(self):
+        return self.globalVariable
 
 
         
